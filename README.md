@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# A simple Redux APP with form functionality
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with redux feature in form validation.
 
 ## Available Scripts
 
